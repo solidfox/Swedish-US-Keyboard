@@ -3,17 +3,17 @@
 <plist version="1.0">
 <dict>
 	<key>CFBundleIdentifier</key>
-	<string>org.sil.ukelele.keyboardlayout.</string>
+	<string>org.sil.ukelele.keyboardlayout.swedishus</string>
 	<key>CFBundleName</key>
-	<string></string>
+	<string>Swedish - US</string>
 	<key>CFBundleVersion</key>
-	<string></string>
-	<key>KLInfo_Swedish US</key>
+	<string>1.0</string>
+	<key>KLInfo_Swedish - US</key>
 	<dict>
 		<key>TISInputSourceID</key>
-		<string>org.sil.ukelele.keyboardlayout..swedishus</string>
+		<string>org.sil.ukelele.keyboardlayout.swedishus.swedishus</string>
 		<key>TISIntendedLanguage</key>
-		<string>sv</string>
+		<string>sv-SE</string>
 	</dict>
 </dict>
 </plist>
