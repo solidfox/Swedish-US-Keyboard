@@ -1,6 +1,6 @@
-# Swedish - US - Keyboard
+# Swedish - US - Keyboard layout
 
-A keyboard layout to simplify using Swedish `å` `ä` `ö` `Å` `Ä` `Ö` characters with a standard US keyboard. The `å` `ä` `ö` keys are put in their normal position on the `[` `'` `;` keys and the US keys can be reached using the option key.
+A macOS keyboard layout to simplify using Swedish `å` `ä` `ö` `Å` `Ä` `Ö` characters with a standard US keyboard. The `å` `ä` `ö` keys are put in their normal position on the `[` `'` `;` keys and the US keys can be reached using the option key.
 
 ## Installation
 1. Download the .pkg file from the [latest release](https://github.com/solidfox/Swedish-US-Keyboard/releases/latest).
